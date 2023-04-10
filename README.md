@@ -1,0 +1,1 @@
+# Ejercicios Logica de Programacion (Pseudocodigo) en PSeInt
